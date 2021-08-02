@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "name":"Yunus",
+        "surname":"FIRAT",
+        "email":"yunusfirat44@gmail.com",
+        "github":"yunusfirat",
+        "employed":"unemployed"
+    },
+    {
+        "id":2,
+        "name":"John",
+        "surname":"Smith",
+        "email":"johnsmith@gmail.com",
+        "github":"johnsmith",
+        "employed":"employed"
+    },
+    {
+        "id":3,
+        "name":"Ronoldo",
+        "surname":"Anderson",
+        "email":"ronaldoanderson@gmail.com",
+        "github":"ronaldoanderson",
+        "employed":"employed"
+    }
+]
